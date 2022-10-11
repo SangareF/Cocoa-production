@@ -1,0 +1,37 @@
+
+
+
+.navbar-logo img {
+    position: absolute;
+    max-width: 100px;
+}
+
+.navbar {
+  background-color: #fd7e14;
+  border-color: #1967be;
+  font-size: 25px;
+  font-family: "Times New Roman", serif;
+}
+
+.chart-title {
+  font-size: 23px;
+  color: #808080;
+  font-family: "Times New Roman", serif;
+}
+
+.value-box .value {
+    color: black;
+}
+
+.value-box .caption {
+  color: yellow
+}
+
+.js-irs-0 .irs-bar {
+  border-top-color: #d01010;
+  border-bottom-color: #d01010;
+  background: #a00;
+} 
+
+.selectize-input { font-size: 20px; line-height: 20px;}
+
